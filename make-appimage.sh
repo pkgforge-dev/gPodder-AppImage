@@ -14,7 +14,7 @@ export DEPLOY_PYTHON=1
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/gpo* /usr/share/gpodder
+quick-sharun /usr/bin/gpo* /usr/share/gpodder /usr/lib/libgtk-3.so*
 
 # Additional changes can be done in between here
 
